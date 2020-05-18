@@ -2,7 +2,7 @@ How to read a properties from the standard application.properties with Spring Bo
 <br/>
 How to compile and execute :<br/>
 mvn package<br/>
-java -jar ./target/waysToConfigureASpringApplication-0.0.1-SNAPSHOT.jar<br/>
+java -jar ./target/readASimpleDataFromAStandardPropertiesFileWithValueAnnotation-0.0.1-SNAPSHOT.jar<br/>
 <br/>
 <br/>
 ---application.properties<br/>
